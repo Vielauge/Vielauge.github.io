@@ -12,10 +12,7 @@ github_username: Vielauge
 
 # Email and twitter are optional:
 email:
-twitter_username for data science: @vielaugen
-twitter_username for climate and politics: @vielauge
-kaggle: Vielauge
-mastodon: pending...
+twitter: @vielaugen
 
 # Set this to true to get LaTeX math equation support
 use_math:
