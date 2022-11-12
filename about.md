@@ -1,4 +1,5 @@
 # About
+(last edited 12.11.2022)
 You can find me on twitter (@vielaugen, @vielauge), kaggle (Vielauge), git (Vielauge) and at home (Holger).
 
 ## Who am I
@@ -39,7 +40,16 @@ Luckily I followed Jeremy and even more lucky he founded FastAI! His book "Deep 
 The main reasons were: I am a statistician, but not a real coder/programmer. I have experience wit SAS and some R, but no experience with python. And the real horror is setting up IT (ubuntu, git, paperspace, hugging face....). The how to's and tutorials are very good, but sometimes there is an unexpected error. And then well -nothing. Other priorities do the rest!
 
 ### FASTAI 5th edition
-I hope this time everything is different! Again motivated. 5th edition uses more Kaggle. This is a plus for me. Git, Paperspace was already there. Still struggling more with installation issues than with statistical concepts. Now I run python on Kaggle, or with visual studio code on windows
+I hope this time everything is different! Again motivated. 5th edition uses more Kaggle. This is a plus for me. Git, Paperspace was already there. Still struggling more with installation issues than with statistical concepts. Now I run python on Kaggle, or with visual studio code on windows. Some problems with Git and Hugging face, but getting better. Parallel ubuntu on my windows system failed, due to unknown errors.
+This blog is part of my ambitions and I am still burning for progress!
+
+"Practical Deep Learning for Coders 2022" is on pause. Finished lesson 1 to 5, but decided it is important to get a bit better with the python basics.
+Just finished online "The python coding book" from Stephen Grupetta. Great book for beginners. Thank you!
+Next step planned sidestep is python for data Analysis with WesMcKinney, before coming back to the fastAI course.
+
+## Final words
+Thank you for reading me. I am looking for teammates. In the long run for a data science career!
+
 
 
 
