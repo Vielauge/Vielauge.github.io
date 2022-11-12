@@ -32,8 +32,8 @@ Next episode was deep learning and I guess this was the most dissatisfying phase
 more about software/hardware installation than statistics. I gave up for another few years!
 
 ### Interlude: Cancer and other crisis
-No details to cancer here, but this was a stopper for my data science career! The priorities were on my wife, the children and life must go on. After she died I got a lot of help from my parents and mother in law. With upcoming corona and isolation the help ended again very soon.
-Now things have a bit normalized. The multiple crisis (corona, ukrainian war, climate catastrophe) are there, but my personal crisis is almost over, having more time again. With a small widower's pension and 16h regular work, two days a week, I have enough money to make ends meet and focus again more on my main interests.
+No details to cancer here, but this was a stopper for my data science ambitions! The priorities were on my wife, the children and life must go on. After she died I got a lot of help from my parents and mother in law. With upcoming corona and isolation the help ended again very soon.
+Now things have a bit normalized. The multiple crisis (corona, ukrainian war, climate catastrophe) are there, but my personal crisis is almost over, having more time again. With a small widower's pension and 16h regular work, two days a week, I have enough money to make ends meet and have enough time to focus again more on my main interests.
 
 ### FASTAI
 Luckily I followed Jeremy and even more lucky he founded FastAI! His book "Deep learning for Coders with fastai & PyTorch" is lying beside my keyboard. His book and his courses are an great inspiration. I started with the third edition. Although I was very motivated, I stuck again.
@@ -41,6 +41,7 @@ The main reasons were: I am a statistician, but not a real coder/programmer. I h
 
 ### FASTAI 5th edition
 I hope this time everything is different! Again motivated. 5th edition uses more Kaggle. This is a plus for me. Git, Paperspace was already there. Still struggling more with installation issues than with statistical concepts. Now I run python on Kaggle, or with visual studio code on windows. Some problems with Git and Hugging face, but getting better. Parallel ubuntu on my windows system failed, due to unknown errors.
+
 This blog is part of my ambitions and I am still burning for progress!
 
 "Practical Deep Learning for Coders 2022" is on pause. Finished lesson 1 to 5, but decided it is important to get a bit better with the python basics.
@@ -48,7 +49,9 @@ Just finished online "The python coding book" from Stephen Grupetta. Great book 
 Next step planned sidestep is python for data Analysis with WesMcKinney, before coming back to the fastAI course.
 
 ## Final words
-Thank you for reading me. I am looking for teammates. In the long run for a data science career!
+Thank you for reading me. Next steps and plans hopefully in regular posts. Kind regards.
+
+Vielauge aka Holger
 
 
 
