@@ -1,5 +1,5 @@
 # About
-You can find me on twitter, kaggle, git and at home.
+You can find me on twitter (@vielaugen, @vielauge), kaggle (Vielauge), git (Vielauge) and at home (Holger).
 
 ## Who am I
 Once upon a time (1975) I was born in Augsburg, Germany. I studied statistics (diploma) in Munich and lived there for a while.
@@ -7,7 +7,6 @@ I married and had two children. My wife died 2019, after 2 years struggling with
 I am single parenting with my two sons born 2006 and 2010. I am working at an clinical research organization over 25 years now.
 In the moment I work only two days a week. I have a girl friend living 12 km away with two younger children.
 My main interests are: My family, data science and climate catastrophe.
-
 
 ## Statistics, data science, crises, kaggle and fast.ai
 
@@ -37,7 +36,11 @@ Now things have a bit normalized. The multiple crisis (corona, ukrainian war, cl
 
 ### FASTAI
 Luckily I followed Jeremy and even more lucky he founded FastAI! His book "Deep learning for Coders with fastai & PyTorch" is lying beside my keyboard. His book and his courses are an great inspiration. I started with the third edition. Although I was very motivated, I stuck again.
-The main reasons were: I am a statistician, but not a real coder/programmer. I have experience wit SAS and some R, but no experience with python. And the real horror is setting up IT (ubuntu, git, paperspace, hugging face....). The how to's and tutorials are very good, but sometimes there is an unexpected error. And th
+The main reasons were: I am a statistician, but not a real coder/programmer. I have experience wit SAS and some R, but no experience with python. And the real horror is setting up IT (ubuntu, git, paperspace, hugging face....). The how to's and tutorials are very good, but sometimes there is an unexpected error. And then well -nothing. Other priorities do the rest!
+
+### FASTAI 5th edition
+I hope this time everything is different! Again motivated. 5th edition uses more Kaggle. This is a plus for me. Git, Paperspace was already there. Still struggling more with installation issues than with statistical concepts. Now I run python on Kaggle, or with visual studio code on windows
+
 
 
 
