@@ -1,0 +1,27 @@
+### Restart
+
+Just a status report. Again fighting with my setup.
+
+I had some interesting days with YouTube and Jeremy Howard. Live coding 1/2. https://youtu.be/56sIyFjihEc
+I learned a lot about windows terminal, installing ubuntu, python using git and so on. Many many shortcuts and things how professionals do!
+The path these days is getting a hacker. 
+
+So far so good.
+
+But I made a big mistake. I deleted a hidden config File and wasn't longer able to use Ubuntu as a user, only as a root admin. I tried a lot, making a new file, editing,
+uninstall, reinstall Windows terminal. Back forward, read alot in the internet. Nothing helped.
+So I decided to delete Ubuntu and restart, but even that was not so easy. The Ubuntu App was not installed, so I was not able to uninstall it. 
+
+The solution was to log in in my admin account. There I was able to uninstall Ubuntu!
+But there was another surprise: wsl --install was not longer possible. Just help text appeared: options for wsl.exe.
+Oh I hate this installing, user, account, garbage drecksscheiß-
+
+The hopefully right solution was now:  wsl --install -d Ubuntu
+
+We will see.
+
+
+
+
+
+
