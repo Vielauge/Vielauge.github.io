@@ -22,6 +22,7 @@ Hello and welcome to my blog.
 
 # DoDoneList
 ## Done
+- 2022.11.22 - Python for data analysis - Wes McKinney (chapter 5)
 - 2022.11.18 - Jeremy live coding part 2 (-> to setup own ubuntu with Jupyter and git)
 - 2022.11.15 - Jeremy live coding part 1  
 - 2022.11 The python coding book from Stephen Gruppetta https://thepythoncodingbook.com/book-outline/ -own visual studio code
@@ -33,7 +34,7 @@ Hello and welcome to my blog.
 - Paperspace similar to own Ubuntu (help from Jeremy live coding part 3)
 
 ### Learn (watch and do) 
-- Python for data analysis - Wes McKinney
+- Python for data analysis - Wes McKinney (chapter 6)
 - Practical Deep Learning for Coders 2022 - Part 6 Random forest
 - Jeremy live coding part 3
 - Meta Learning -  Radek Osmulski Buy?
