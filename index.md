@@ -22,6 +22,7 @@ Hello and welcome to my blog.
 
 # DoDoneList
 ## Done
+- 2022.11.23 - vim tutorial (see live coding part 5)
 - 2022.11.23 - Paperspace setup (not from live coding part 3/4!) but https://forums.fast.ai/t/live-coding-aka-walk-thrus/96617/118 pinned
 - 2022.11.22 - Python for data analysis - Wes McKinney (chapter 5)
 - 2022.11.18 - Jeremy live coding part 2 (-> to setup own ubuntu with Jupyter and git)
