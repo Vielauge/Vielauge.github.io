@@ -6,6 +6,8 @@ Hello and welcome to my blog.
 ![RerikProfil_nochkleiner](https://user-images.githubusercontent.com/12997753/201469698-317e329b-4d46-4913-8cf4-cd6b612d268f.jpg)
 
 ## Basic Hard- and Software
+- Male born 1975 in Bavaria
+- Father of two sons
 - Windows 10 - old (maybe 2010) i7 intel core
 - Nvidia GeForce GTX 1060 6 GB
 
