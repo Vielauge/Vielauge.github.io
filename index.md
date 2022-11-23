@@ -41,7 +41,7 @@ Hello and welcome to my blog.
 - Practical Deep Learning for Coders 2022 - Part 6 Random forest
 - Jeremy live coding part 3
 - Meta Learning -  Radek Osmulski Buy?
-- Automate the boring stuff with python programming -Al Sweigart
+- Automate the boring stuff with python programming -Al Sweigart https://automatetheboringstuff.com (chapter 6..)
 
 ### Projects
 - LUX AI Season 2 - I guess far too complicated fpr my python skills, but very interesting
