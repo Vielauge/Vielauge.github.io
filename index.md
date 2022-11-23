@@ -32,9 +32,10 @@ Hello and welcome to my blog.
 
 
 ## Do
-### Implement
+### Implementation necessary?
 - ssh keys Paperspace to git necessary?
 - connect VScode to paperspace? (see Live coding forum part 5, Nick Jun 4)
+- GitHub - fastai/dotfiles 
 
 ### Learn (watch and do) 
 - Python for data analysis - Wes McKinney (chapter 6)
