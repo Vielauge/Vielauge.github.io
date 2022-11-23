@@ -39,7 +39,7 @@ Hello and welcome to my blog.
 ### Learn (watch and do) 
 - Python for data analysis - Wes McKinney (chapter 6)
 - Practical Deep Learning for Coders 2022 - Part 6 Random forest
-- Jeremy live coding part 3
+- Jeremy live coding part 6
 - Meta Learning -  Radek Osmulski Buy?
 - Automate the boring stuff with python programming -Al Sweigart https://automatetheboringstuff.com (chapter 6..)
 
