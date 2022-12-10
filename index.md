@@ -38,6 +38,7 @@ Hello and welcome to my blog.
 - ssh keys Paperspace to git necessary?
 - connect VScode to paperspace? (see Live coding forum part 5, Nick Jun 4)
 - GitHub - fastai/dotfiles 
+- get a credit card for sucessful paperspace billing or get the gtx1060 local running
 
 ### Learn (watch and do) 
 - Python for data analysis - Wes McKinney (chapter 6)
