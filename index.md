@@ -24,6 +24,7 @@ Hello and welcome to my blog.
 
 # DoDoneList
 ## Done
+- 2022.12.13 - A lot of trouble with paperspace billing, paperspace setup etc. Paddy Kaggle competition started on paperspace. Succesfull git add, commit, push, pull-
 - 2022.11.23 - vim tutorial (see live coding part 5 or vimtutor in linux or https://vim-adventures.com)
 - 2022.11.23 - Paperspace setup (not from live coding part 3/4!) but https://forums.fast.ai/t/live-coding-aka-walk-thrus/96617/118 pinned
 - 2022.11.22 - Python for data analysis - Wes McKinney (chapter 5)
