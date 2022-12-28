@@ -12,7 +12,7 @@ Hello and welcome to my blog.
 - Nvidia GeForce GTX 1060 6 GB
 
 ## Setup
-- 2010! Kaggle with lots of big pauses
+- 2010! Kaggle with lots of big pauses https://www.kaggle.com/vielauge
 - 2011 Github but hardly no commitments until 2022.11
 - 2021 Paperspace 
 - 2022.09.28 second twitter account for data science @Vielaugen
@@ -25,6 +25,7 @@ Hello and welcome to my blog.
 # DoDoneList
 ## Done
 - 2022.12.13 - A lot of trouble with paperspace billing, paperspace setup etc. Paddy Kaggle competition started on paperspace. Succesfull git add, commit, push, pull-
+ssh keys to paperspace added
 - 2022.11.23 - vim tutorial (see live coding part 5 or vimtutor in linux or https://vim-adventures.com)
 - 2022.11.23 - Paperspace setup (not from live coding part 3/4!) but https://forums.fast.ai/t/live-coding-aka-walk-thrus/96617/118 pinned
 - 2022.11.22 - Python for data analysis - Wes McKinney (chapter 5)
@@ -36,10 +37,9 @@ Hello and welcome to my blog.
 
 ## Do
 ### Implementation necessary?
-- ssh keys Paperspace to git necessary?
 - connect VScode to paperspace? (see Live coding forum part 5, Nick Jun 4)
 - GitHub - fastai/dotfiles 
-- get a credit card for sucessful paperspace billing or get the gtx1060 local running
+- get a credit card for sucessful paperspace billing (is ordered!) or get the gtx1060 local running
 
 ### Learn (watch and do) 
 - Python for data analysis - Wes McKinney (chapter 6)
