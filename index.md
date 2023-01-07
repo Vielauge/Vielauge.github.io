@@ -21,9 +21,13 @@ Hello and welcome to my blog.
 - 2022.11.18 Own Ubuntu (under Windows10) with Jupyter and linked with Git repo
 - 2022.11.21 Joined mastodon @vielaugen@sigmoid.social
 
+# Goals 2023
+- Kaggle expert
+- Finish Practical Deep Learning for Coders part 1 - FastAI
 
 # DoDoneList
 ## Done
+- 2023.05.01 Credit card for successful paperspace billing
 - 2022.12.13 - A lot of trouble with paperspace billing, paperspace setup etc. Paddy Kaggle competition started on paperspace. Succesfull git add, commit, push, pull-
 ssh keys to paperspace added
 - 2022.11.23 - vim tutorial (see live coding part 5 or vimtutor in linux or https://vim-adventures.com)
@@ -39,7 +43,7 @@ ssh keys to paperspace added
 ### Implementation necessary?
 - connect VScode to paperspace? (see Live coding forum part 5, Nick Jun 4)
 - GitHub - fastai/dotfiles 
-- get a credit card (is ordered!) for successful paperspace billing or get the gtx1060 local running
+- 
 
 ### Learn (watch and do) 
 - Python for data analysis - Wes McKinney (chapter 6)
