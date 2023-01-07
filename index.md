@@ -27,7 +27,7 @@ Hello and welcome to my blog.
 
 # DoDoneList
 ## Done
-- 2023.05.01 Credit card for successful paperspace billing
+- 2023.01.05 Credit card for successful paperspace billing
 - 2022.12.13 - A lot of trouble with paperspace billing, paperspace setup etc. Paddy Kaggle competition started on paperspace. Succesfull git add, commit, push, pull-
 ssh keys to paperspace added
 - 2022.11.23 - vim tutorial (see live coding part 5 or vimtutor in linux or https://vim-adventures.com)
